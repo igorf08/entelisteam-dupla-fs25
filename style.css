@@ -1,0 +1,43 @@
+@import url(https://db.onlinewebfonts.com/c/1306a083aeb9edd81ab17ba6334689cb?family=IgraSans);
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.principal-text {
+    font-family: 'IgraSans';
+    width: 165px;
+    margin: 0 18px 0 18px;
+    font-size: 18px;
+}
+
+.card {
+    font-family: 'Montserrat';
+    width: 220px;
+    padding: 30px
+}
+
+.card p {
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.card-2 img {
+    margin-bottom: 8px;
+}
+
+.card span {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.container-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid grey;
+}
